@@ -283,21 +283,3 @@ for question in questions:
     result = agent.invoke(question)
     results.append(result)
 ```
-
-## 🤝 貢獻指南
-
-1. Fork 此項目
-2. 創建特性分支 (`git checkout -b feature/amazing-feature`)
-3. 提交更改 (`git commit -m 'Add some amazing feature'`)
-4. 推送到分支 (`git push origin feature/amazing-feature`)
-5. 開啟 Pull Request
-
-## 📄 授權
-
-此項目使用 MIT 授權 - 查看 [LICENSE](LICENSE) 文件了解詳情
-
-## 🙏 致謝
-
-- [Python A2A](https://github.com/themanojdesai/python-a2a) - 提供 A2A 協議實現
-- [LangChain](https://github.com/langchain-ai/langchain) - 強大的 LLM 框架
-- [OpenAI](https://openai.com/) - 提供優秀的語言模型
